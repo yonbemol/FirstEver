@@ -1,0 +1,3 @@
+Este lo agrego, luego le aplico commit, lo modifico, no lo agrego y aplico commit.
+
+A ver que pasa
